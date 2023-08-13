@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("https://media.licdn.com/dms/image/C4D03AQEfbint10z0wA/profile-displayphoto-shrink_800_800/0/1516485116741?e=1697673600&v=beta&t=GJ52BdayQ-fMGdDJVzgp-fPt4h-v-QSWMVThH7Z9Ez0") top center;
   background-size: cover;
 }
 
