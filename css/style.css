@@ -9754,3 +9754,10 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    .navbar-nav .nav-item.dropdown:hover .dropdown-menu a:hover {
+      background-color: #630A10;
+      color: white;
+  }
+  
+  
