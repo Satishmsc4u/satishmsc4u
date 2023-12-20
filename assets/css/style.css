@@ -1333,7 +1333,7 @@ section {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #b8a07e;
+  color: #34b7a7;
 }
 
 .navbar .dropdown:hover>ul {
@@ -1394,7 +1394,7 @@ section {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #b8a07e;
+  color: #34b7a7;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
